@@ -1,0 +1,12 @@
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\bin\Debug\net8.0\okfks4_voroshilov.deps.json
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\bin\Debug\net8.0\okfks4_voroshilov.dll
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\bin\Debug\net8.0\okfks4_voroshilov.pdb
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.AssemblyInfoInputs.cache
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.AssemblyInfo.cs
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.sourcelink.json
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.dll
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\refint\okfks4_voroshilov.dll
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\okfks4_voroshilov.pdb
+C:\Users\st310-08\Desktop\voroshilov\okfks4_voroshilov\okfks4_voroshilov\obj\Debug\net8.0\ref\okfks4_voroshilov.dll

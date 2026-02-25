@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "okfks4_voroshilov", "okfks4_voroshilov\okfks4_voroshilov.csproj", "{D145D134-68E0-477D-A766-8E2344F958AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeTests", "ShapeTests\ShapeTests.csproj", "{D080ED96-C60C-4893-83C0-65DCE19CE2C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D145D134-68E0-477D-A766-8E2344F958AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D145D134-68E0-477D-A766-8E2344F958AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D145D134-68E0-477D-A766-8E2344F958AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D080ED96-C60C-4893-83C0-65DCE19CE2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D080ED96-C60C-4893-83C0-65DCE19CE2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D080ED96-C60C-4893-83C0-65DCE19CE2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D080ED96-C60C-4893-83C0-65DCE19CE2C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

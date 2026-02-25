@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "okfks4_voroshilov/1.0.0": {
+        "runtime": {
+          "okfks4_voroshilov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "okfks4_voroshilov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

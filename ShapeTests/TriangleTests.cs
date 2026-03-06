@@ -46,6 +46,9 @@ namespace ShapeTests
         {
             var triangle = new Triangle(5, 6, 7);
             double expected = 5 + 6 + 7 + 1;
+
+
+
             Assert.Equal(expected, triangle.Perimeter());
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("okfks4_voroshilov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+347094c190f26638b052e28f5fd480e94e1b1056")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca7c7f520a0c0edb2864a8927c4829601c601b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("okfks4_voroshilov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("okfks4_voroshilov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

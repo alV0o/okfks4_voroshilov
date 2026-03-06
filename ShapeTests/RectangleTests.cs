@@ -39,6 +39,8 @@ namespace ShapeTests
         {
             var rectangle = new Rectangle(width, height);
             double expected = width*height;
+
+
             Assert.Equal(expected, rectangle.Area());
         }
 

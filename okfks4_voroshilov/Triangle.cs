@@ -8,6 +8,10 @@
 
         public Triangle(double sideA, double sideB, double sideC)
         {
+            if (sideA <= 0 || sideB <= 0 || sideC <= 0)
+                throw new Exception();
+            if (sideA + sideB <= sideC || sideA + sideC <= sideB || sideB + sideC <= sideA)
+                throw new Exception();
             SideA = sideA; 
             SideB = sideB;
             SideC = sideC;
@@ -15,11 +19,6 @@
 
         public override double Area()
         {
-            if (SideA <= 0 || SideB <= 0 || SideC <= 0)
-                throw new Exception();
-
-            if (SideA + SideB <= SideC || SideA + SideC <= SideB || SideB + SideC <= SideA)
-                throw new Exception();
 
             double p = (SideA + SideB + SideC) / 2;
             double S = Math.Sqrt(p*(p-SideA)*(p-SideB)*(p-SideC));
@@ -28,11 +27,6 @@
 
         public override double Perimeter()
         {
-            if (SideA <= 0 || SideB <= 0 || SideC <= 0)
-                throw new Exception();
-
-            if (SideA + SideB <= SideC || SideA + SideC <= SideB || SideB + SideC <= SideA)
-                throw new Exception();
 
             return SideA + SideB + SideC;
         }

@@ -45,7 +45,7 @@ namespace ShapeTests
         public void BadPerimeterTest_IncorrectResult()
         {
             var triangle = new Triangle(5, 6, 7);
-            double expected = 5 + 6 + 7 + 1;
+            double expected = 5 + 6 + 7;
 
 
 

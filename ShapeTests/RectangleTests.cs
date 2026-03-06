@@ -41,6 +41,9 @@ namespace ShapeTests
             double expected = width*height;
 
 
+
+
+
             Assert.Equal(expected, rectangle.Area());
         }
 
